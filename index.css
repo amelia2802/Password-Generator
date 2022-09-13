@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: #000000;
+    
+}
+.content{
+    width: 100vh;
+    height: 90vh;
+    margin: auto;
+    background-color: #111827;
+    text-align: center;
+
+    box-shadow:gray;
+    border-radius:2%; 
+}
+h1{
+    color: white;
+    font-size: 3.3rem;
+}
+span{
+    color: #6EE7B7;
+}
+
+p{
+    color: gray;
+}
+
+button{
+    padding: 10px;
+    background-color: #059669;
+    color: white;
+    border: none;
+}
+
+hr{
+    margin-top: 19px;
+}
+
+textarea{
+    margin-left: 15px;
+    width: 45vh;
+    height: 10vh;
+    background-color: #374151;
+    color: #6EE7B7;
+    border: none;
+    border-radius: 3%;
+    text-align:center; 
+}
